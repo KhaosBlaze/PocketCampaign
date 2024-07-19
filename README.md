@@ -6,7 +6,7 @@ This application is meant to serve as an NPC management system for a TTRPG campa
 
 The database structure after initial planning is as follows:
 
-![ED Diagram](/database_deisgn_initial.png)
+![ED Diagram](/database_design_initial.png)
 
 ## Used languages
 
